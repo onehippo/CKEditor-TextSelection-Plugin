@@ -1,0 +1,25 @@
+{
+  "name": "CKEditor-TextSelection-Plugin",
+  "version": "1.15.0",
+  "author": "w8tcha",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/w8tcha/CKEditor-TextSelection-Plugin.git"
+  },
+  "keywords": [
+    "CKEditor"
+  ],
+  "publishConfig": {
+    "registry": "https://maven.onehippo.com/npm-public/"
+  },
+  "files": [
+    "textselection/",
+    "LICENSE.md",
+    "README.md",
+    "package.json"
+  ],
+  "engines": {
+    "node": "6"
+  }
+}
+
