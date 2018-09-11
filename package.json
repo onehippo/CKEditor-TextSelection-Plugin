@@ -19,8 +19,7 @@
     "package.json"
   ],
   "engines": {
-    "node": ">=8",
-    "npm": ">=5"
+    "node": "8",
+    "npm": "6"
   }
 }
-
